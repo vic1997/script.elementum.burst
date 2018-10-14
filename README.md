@@ -1,3 +1,8 @@
+# Elementum Burst France
+
+Mise à jour et correction des bugs plus rapide et plus lié aux tracker français.
+Il n'y a qu'un repository pour le script burst, pour le plugin et le reste il faut se rediriger vers le repository d'elgatito.
+
 # Elementum Burst
 
 A burst of providers.
