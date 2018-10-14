@@ -8,10 +8,11 @@ Il n'y a qu'un repository pour le script burst, pour le plugin et le reste il fa
 Les versions effectué sous Burst France (ce repository) seront nommé avec la dernière version officiel d'elgatito suivis par la versions Burst France de cette-ci.
 
 Exemple :
-
+```
 Version d'elgatito : 0.0.29
 Version de Burst france : 02
 Nom de la version : 0.0.29.02
+```
 
 # Elementum Burst
 
