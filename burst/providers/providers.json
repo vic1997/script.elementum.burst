@@ -1916,7 +1916,7 @@
         "anime_query": "",
         "base_url": "https://www3.yggtorrent.to/engine/search?do=search&name=QUERYEXTRA",
         "color": "FFF7A62D",
-        "general_extra": "&category=2145",
+        "general_extra": "",
         "general_keywords": "{title:fr}",
         "general_query": "",
         "language": "fr",
